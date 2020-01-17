@@ -1,4 +1,4 @@
-The file "bases.txt" presents the toric end point threefolds found in the paper arXiv:1710.11235, with Hodge number 1000<h11<13000
+After decompressing the three tar.gz files together, the file "bases.txt" includes the toric end point threefold bases found in the paper arXiv:1710.11235, with Hodge number 1000<h11<13000
 
 The format of the files is:
 
