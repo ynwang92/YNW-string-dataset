@@ -1,1 +1,9 @@
+Supplementary.tar.gz contains the supplementary Mathematica file for the paper arXiv: 2001.07258
 
+The list "Points" contains the 2561 rays on the non-compact base B_{E_8}.
+
+The list "Surfaces" contains the 5016 3d cones on B_{E_8} with (E8,E8,E8) collision.
+
+The list "Rays" contains the 181203 rays on the blown up toric base B_{toric}.
+
+The list "Cones" contains the 362402 3d cones on B_{toric}.
